@@ -1,0 +1,16 @@
+numpy
+pandas
+
+torch==2.1.0
+Python 3.10
+torchvision
+
+Pillow      
+matplotlib    
+scikit-image 
+
+scikit-learn  
+natsort     
+tqdm          
+pytorch-msssim  
+csv      
